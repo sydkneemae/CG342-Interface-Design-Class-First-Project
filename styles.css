@@ -1,6 +1,13 @@
 h1{
     font-size: 40px;
-    color:slategrey;
+    color:rgb(48, 72, 99);
     font-style: italic;
-    
+    font-family: 'Holtwood One SC', serif;
+}
+
+p{
+    font-size: 16px;
+    color: rgb(46, 51, 59);
+    line-height: 15px;
+    font-family: 'Neuton', serif;
 }
