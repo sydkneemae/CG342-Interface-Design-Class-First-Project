@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(221, 235, 255);
+    background-color:#FCF5C7;
 }
 
 /* typography */
 h1{
     font-size: 60px;
-    color:rgb(107, 28, 28);
+    color:#406e8e;
     font-style: italic;
     font-family: 'Holtwood One SC', serif;
     text-align: center;
@@ -13,7 +13,7 @@ h1{
 
 h2{
     font-size: 40px;
-    color:rgb(126, 56, 10);
+    color:#744253;
     font-style: italic;
     font-family: 'Holtwood One SC', serif;
     text-align: center;
@@ -21,7 +21,7 @@ h2{
 
 h3{
     font-size: 40px;
-    color:rgb(153, 143, 0);
+    color:#744253;
     font-style: italic;
     font-family: 'Holtwood One SC', serif;
     text-align: center;
@@ -61,4 +61,11 @@ p{
     width: 130px;
     text-align: center;
     margin-top: 25px;
+}
+
+.top-banner{
+    height: 240px;
+    text-align: center;
+    padding-top: 110px;
+
 }
