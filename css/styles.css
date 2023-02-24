@@ -67,5 +67,9 @@ p{
     height: 240px;
     text-align: center;
     padding-top: 110px;
+    background-color: #FF928B;
+}
 
+.main-content{
+    width: 800px;
 }
