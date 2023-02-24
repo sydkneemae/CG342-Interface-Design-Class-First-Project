@@ -17,12 +17,12 @@ p{
     font-family: 'Neuton', serif;
 }
 
-.buttons-links{
+.buttons-link{
     border-style: solid;
     border-color:rgb(109, 8, 24);
     background-color: rgba(255, 163, 227, 0.445);
     border-width: 2px;
     text-decoration: none;
     color:rgb(46, 51, 59);
-    
+
 }
