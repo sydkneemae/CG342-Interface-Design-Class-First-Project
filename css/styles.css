@@ -6,13 +6,12 @@ body{
 h1{
     font-size: 60px;
     color:#406e8e;
-    font-style: italic;
     font-family: 'Holtwood One SC', serif;
     text-align: center;
 }
 
 h2{
-    font-size: 40px;
+    font-size: 30px;
     color:#744253;
     font-style: italic;
     font-family: 'Holtwood One SC', serif;
@@ -20,7 +19,7 @@ h2{
 }
 
 h3{
-    font-size: 40px;
+    font-size: 30px;
     color:#744253;
     font-style: italic;
     font-family: 'Holtwood One SC', serif;
@@ -29,7 +28,7 @@ h3{
 
 p{
     font-size: 20px;
-    color: rgb(46, 51, 59);
+    color: #182a36;
     line-height: 25px;
     font-family: 'Neuton', serif;
     text-align: center;
@@ -37,11 +36,11 @@ p{
 
 .buttons-link{
     border-style: solid;
-    border-color:rgb(109, 8, 24);
-    background-color: rgba(255, 163, 227, 0.445);
+    border-color:#744253;
+    background-color:#FF928B;
     border-width: 2px;
     text-decoration: none;
-    color:rgb(46, 51, 59);
+    color:#182a36;
     border-radius: 10px;
     display: block;
     width: 150px;
@@ -51,11 +50,11 @@ p{
 
 .buttons-alert{
     border-style: solid;
-    border-color:rgb(109, 32, 8);
-    background-color: rgba(255, 204, 163, 0.637);
+    border-color:#744253;
+    background-color: #FCF5C7;
     border-width: 2px;
     text-decoration: none;
-    color:rgb(46, 51, 59);
+    color:#182a36;
     border-radius: 15px;
     display: block;
     width: 130px;
@@ -72,4 +71,13 @@ p{
 
 .main-content{
     width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+    background-color:#8EA8C3
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    padding: 10px 0;
 }
