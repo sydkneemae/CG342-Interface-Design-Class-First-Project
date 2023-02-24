@@ -67,10 +67,11 @@ p{
     text-align: center;
     padding: 100px 0 0 0;
     background-color: #FF928B;
+    margin: 0;
 }
 
 .main-content{
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 10px;
     background-color:#8EA8C3
@@ -81,4 +82,5 @@ footer{
     text-align: center;
     padding: 10px 0;
     background-color:#FF928B;
+    margin: 0;
 }
