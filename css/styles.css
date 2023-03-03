@@ -2,6 +2,9 @@ body{
     background-color:#FCF5C7;
 }
 
+htmal{
+    scroll-behavior: smooth;
+}
 /* typography */
 h1{
     font-size: 60px;
