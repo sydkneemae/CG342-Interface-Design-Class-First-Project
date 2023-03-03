@@ -45,6 +45,8 @@ p{
     display: inline;
     width: 150px;
     text-align: center;
+    margin: 10px auto;
+    padding: 15px 5px;
 }
 
 .buttons-alert{
@@ -55,9 +57,11 @@ p{
     text-decoration: none;
     color:#182a36;
     border-radius: 15px;
-    display: block;
+    display: inline;
     width: 130px;
     text-align: center;
+    margin: 10px auto;
+    padding: 15px 5px;
 }
 
 nav{
