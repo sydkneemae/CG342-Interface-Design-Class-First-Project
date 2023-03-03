@@ -45,7 +45,6 @@ p{
     display: inline;
     width: 150px;
     text-align: center;
-    margin: 20px 0px auto;
 }
 
 .buttons-alert{
@@ -59,7 +58,6 @@ p{
     display: block;
     width: 130px;
     text-align: center;
-    margin: 25px 0px auto;
 }
 
 nav{
@@ -69,7 +67,7 @@ background-color: #744253;
 
 .nav-links{
 list-style-type: none;
-width: 200px;
+width: 250px;
 margin: 0 auto;
 padding: 0;
 }
