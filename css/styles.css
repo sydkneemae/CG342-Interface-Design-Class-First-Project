@@ -69,7 +69,8 @@ background-color: #744253;
 
 .nav-links{
 list-style-type: none;
-margin: 0;
+width: 200px;
+margin: 0 auto;
 padding: 0;
 }
 
