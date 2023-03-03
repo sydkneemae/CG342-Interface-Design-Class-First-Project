@@ -77,6 +77,11 @@ padding: 0;
 display: inline;
 }
 
+.nav-links li a{
+padding-left: 10px;
+padding-right:10px;
+}
+
 .top-banner{
     height: 150px;
     text-align: center;
