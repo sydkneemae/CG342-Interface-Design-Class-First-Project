@@ -62,6 +62,19 @@ p{
     margin: 25px 0px auto;
 }
 
+nav{
+padding: 20px;
+background-color: #744253;
+}
+
+.nav-links{
+list-style-type: none;
+}
+
+.nav-links li{
+display: inline;
+}
+
 .top-banner{
     height: 150px;
     text-align: center;
