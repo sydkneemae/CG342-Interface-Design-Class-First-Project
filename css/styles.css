@@ -88,6 +88,7 @@ padding-right:10px;
     padding: 100px 0 0 0;
     background-image: url("https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover;
+    background-attachment: fixed;
     background-color: #FF928B;
     margin: 0;
     overflow: hidden;
