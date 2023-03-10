@@ -110,6 +110,10 @@ footer{
     margin-top: 10px;
 }
 
+img{
+    width: 100%;
+}
+
 /*mobile styles*/
 
 @media only screen and (max-width: 600px){
