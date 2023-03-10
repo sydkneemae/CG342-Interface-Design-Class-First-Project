@@ -1,5 +1,6 @@
 body{
     background-color:#FCF5C7;
+    margin: 0;
 }
 
 htmal{
@@ -107,4 +108,25 @@ footer{
     padding: 10px 0;
     background-color:#FF928B;
     margin-top: 10px;
+}
+
+/*mobile styles*/
+
+@media only screen and (max-width: 600px){
+    /*mobile styles here*/
+
+    body{
+        background-color:#000000;
+    }
+
+    h1{
+        font-size: 40px;
+        color: black;
+        background-color: white;
+        margin: 0px 20px;
+    }
+
+    h2{
+        color:white;
+    }
 }
